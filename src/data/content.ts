@@ -26,9 +26,9 @@ export const experienceData = [
     role: "Senior Digital Marketing Strategist",
     period: "2024 - Present",
     achievements: [
-      "Led digital marketing campaigns for 20+ enterprise clients",
-      "Increased client ROI by average of 180%",
-      "Managed team of 5 marketing specialists"
+      "Led digital marketing campaigns for 05+ enterprise clients",
+      "Increased client ROI by average of 150%",
+      "Managed team of 3 marketing specialists"
     ]
   },
   {
