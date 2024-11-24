@@ -1,6 +1,6 @@
 export const heroData = {
   image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-  name: "Sarah Parker",
+  name: "Monwara Moni",
   title: "Transforming Brands Through Digital Marketing",
   description: "Helping businesses grow their online presence through strategic digital marketing solutions that drive results."
 };
