@@ -22,9 +22,9 @@ export const skillsData = [
 
 export const experienceData = [
   {
-    company: "Digital Marketing Agency XYZ",
+    company: "ezeMark",
     role: "Senior Digital Marketing Strategist",
-    period: "2020 - Present",
+    period: "2024 - Present",
     achievements: [
       "Led digital marketing campaigns for 20+ enterprise clients",
       "Increased client ROI by average of 180%",
@@ -32,23 +32,13 @@ export const experienceData = [
     ]
   },
   {
-    company: "Tech Startup ABC",
-    role: "Marketing Manager",
-    period: "2018 - 2020",
-    achievements: [
-      "Grew organic traffic by 250% in 18 months",
-      "Established company's content marketing strategy",
-      "Reduced customer acquisition cost by 40%"
-    ]
-  },
-  {
-    company: "Global Corp Industries",
+    company: "Be Mezban",
     role: "Digital Marketing Specialist",
-    period: "2016 - 2018",
+    period: "2022 - 2024",
     achievements: [
-      "Managed social media presence across 5 platforms",
+      "Managed social media presence across 3 platforms",
       "Implemented marketing automation workflows",
-      "Increased email engagement by 75%"
+      "Increased Customer engagement by 75%"
     ]
   }
 ];
