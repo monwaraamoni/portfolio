@@ -8,15 +8,15 @@ export const heroData = {
 export const skillsData = [
   {
     category: "Digital Marketing",
-    skills: ["SEO", "Content Marketing", "Email Marketing", "PPC", "Social Media Marketing"]
+    skills: ["Social Media Marketing", "SEO", "Content Marketing", "PPC"]
   },
   {
     category: "Analytics",
-    skills: ["Google Analytics", "Data Visualization", "A/B Testing", "Conversion Optimization"]
+    skills: ["Meta Business Suit","Google Analytics", "Data Visualization", "A/B Testing", "Conversion Optimization"]
   },
   {
     category: "Tools & Platforms",
-    skills: ["HubSpot", "Mailchimp", "Google Ads", "Meta Ads", "Semrush"]
+    skills: ["HubSpot", "Mailchimp", "Google Ads", "Meta Ads", "Semrush","WhatsApp Business"]
   }
 ];
 
@@ -52,7 +52,7 @@ export const servicesData = [
   {
     id: "social",
     title: "Social Media Marketing",
-    description: "Build brand awareness and engage with your audience across all social platforms."
+    description: "Build brand awareness and engage with your audience across all social platforms(Facebook,Instagram,Twitter,TikTok)."
   },
   {
     id: "analytics",
@@ -115,13 +115,13 @@ export const testimonialsData = [
     role: "Founder & CEO",
     company: "GeekSSort",
     image: "https://media.licdn.com/dms/image/v2/D5635AQGWWry4uWIyYw/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1729461829988?e=1733047200&v=beta&t=m75lsGcgeT4AZvmfyROQ3tiTdGu34a8zdBpO75miKUk",
-    testimonial: "Working with Monwara Moni was a game-changer for our e-commerce business. Her insights and execution were invaluable."
+    testimonial: "The ROI we've seen from Monwara Moni's marketing strategies has been phenomenal. Highly recommended for any growing business."
   },
   {
     name: "Al Sadi Bhuiyan",
     role: "Founder",
     company: "KeenCares",
     image: "https://media.licdn.com/dms/image/v2/C4D03AQGu1GZordt-8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656970877598?e=1738195200&v=beta&t=Tqfo0XLJlNr_bmrIESs_MF75Itq7FU0VXqtPs_dhIFc",
-    testimonial: "The ROI we've seen from Monwara Moni's marketing strategies has been phenomenal. Highly recommended for any growing business."
+    testimonial: "Working with Monwara Moni was a game-changer for our e-commerce business. Her insights and execution were invaluable."
   }
 ];
