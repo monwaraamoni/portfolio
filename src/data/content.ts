@@ -1,5 +1,5 @@
 export const heroData = {
-  image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+  image: "https://media.licdn.com/dms/image/v2/D4E03AQG08rZqSsda1Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689578485558?e=1738195200&v=beta&t=4r_a_eb4WlTOHMOchBPoICYhFe1UaW_Yirtur4VCEnk",
   name: "Monwara Moni",
   title: "Transforming Brands Through Digital Marketing",
   description: "Helping businesses grow their online presence through strategic digital marketing solutions that drive results."
