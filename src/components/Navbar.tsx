@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Briefcase className="h-8 w-8 text-indigo-600" />
-            <span className="ml-2 text-xl font-bold text-gray-900">Sarah Parker</span>
+            <span className="ml-2 text-xl font-bold text-gray-900">Monwara Moni</span>
           </div>
           
           <div className="hidden md:block">
