@@ -114,24 +114,24 @@ export const caseStudiesData = [
 
 export const testimonialsData = [
   {
-    name: "John Smith",
-    role: "Marketing Director",
-    company: "TechCorp",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    testimonial: "Sarah's strategic approach to digital marketing transformed our online presence. We saw immediate results in terms of engagement and conversions."
+    name: "Abdullah Al Fahim",
+    role: "Founder & CEO",
+    company: "P&F Global",
+    image: "https://media.licdn.com/dms/image/v2/D4E35AQFJIuI9v8tR3A/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1719437433281?e=1733047200&v=beta&t=xJ9tE_kIGRlXfh7YKPSjhkYLcjP8qK_sVr-MrWUFuJ8",
+    testimonial: "Monwara Moni's strategic approach to digital marketing transformed our online presence. We saw immediate results in terms of engagement and conversions."
   },
   {
-    name: "Emily Chen",
-    role: "CEO",
-    company: "StyleBox",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    testimonial: "Working with Sarah was a game-changer for our e-commerce business. Her insights and execution were invaluable."
+    name: "Ebrahim Khan",
+    role: "Founder & CEO",
+    company: "GeekSSort",
+    image: "https://media.licdn.com/dms/image/v2/D5635AQGWWry4uWIyYw/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1729461829988?e=1733047200&v=beta&t=m75lsGcgeT4AZvmfyROQ3tiTdGu34a8zdBpO75miKUk",
+    testimonial: "Working with Monwara Moni was a game-changer for our e-commerce business. Her insights and execution were invaluable."
   },
   {
-    name: "Michael Brown",
+    name: "Al Sadi Bhuiyan",
     role: "Founder",
-    company: "StartupX",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    testimonial: "The ROI we've seen from Sarah's marketing strategies has been phenomenal. Highly recommended for any growing business."
+    company: "KeenCares",
+    image: "https://media.licdn.com/dms/image/v2/C4D03AQGu1GZordt-8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656970877598?e=1738195200&v=beta&t=Tqfo0XLJlNr_bmrIESs_MF75Itq7FU0VXqtPs_dhIFc",
+    testimonial: "The ROI we've seen from Monwara Moni's marketing strategies has been phenomenal. Highly recommended for any growing business."
   }
 ];
